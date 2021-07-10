@@ -1,2 +1,2 @@
 # naive-chain
-Build my block chain from zero
+Recurrent (naivechain)[https://github.com/lhartikk/naivechain] in Python
